@@ -18,5 +18,5 @@ I am a **Frontend Web Developer** with a **Degree in Design and Creative Technol
 
 ### 🤝 Contact
 - **Email:** soycarloscardoso@gmail.com
-- **LinkedIn:** [soycardosolucas](https://www.linkedin.com/in/soycardosolucas/)
+- **LinkedIn:** [achuzer](https://www.linkedin.com/in/achuzer/)
 - **Location:** Burjassot, Valencia (46100)
